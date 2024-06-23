@@ -2,6 +2,7 @@
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Zod-black?style=for-the-badge&logoColor=white&logo=Zod&color=3068b7" alt="zod" />
     <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=336791" alt="postgresql" />
     <img src="https://img.shields.io/badge/-Drizzle_ORM-black?style=for-the-badge&logoColor=white&logo=drizzle&color=FF6B6B" alt="drizzle" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
@@ -9,8 +10,25 @@
   </div>
 
   <h3 align="center">E-Commerce App</h3>
+
+  <h4><a href="https://ecommerce-next-js-agamya.vercel.app/" target="_blank">Deployed Live Website</a></h4>
 </div>
 
+### Authenticating
+
+To authenticate as ADMIN and view the /admin/overview route, you can use the following credentials:
+
+Email:
+
+```bash
+admin@example.com
+```
+
+Password:
+
+```bash
+123456
+```
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🛒 [Introduction](#introduction)
@@ -25,6 +43,7 @@ This E-commerce app is built with Next.js and PostgreSQL, using Drizzle ORM for 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 -   Next.js
+-   Zod
 -   PostgreSQL
 -   Drizzle ORM
 -   Tailwind CSS
@@ -111,6 +130,7 @@ pnpm start
 ```
 
 This will start the production server.
+
 
 **Contributing**
 
