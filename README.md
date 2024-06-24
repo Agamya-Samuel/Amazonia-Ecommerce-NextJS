@@ -11,7 +11,7 @@
 
   <h3 align="center">E-Commerce App</h3>
 
-  <h4><a href="https://ecommerce-next-js-agamya.vercel.app/" target="_blank">Deployed Live Website</a></h4>
+  <h4><a href="https://amazonia-ecommerce.vercel.app/" target="_blank">Deployed Live Website</a></h4>
 </div>
 
 ### Authenticating
